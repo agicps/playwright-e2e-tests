@@ -45,5 +45,5 @@ userAgent: "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML,
 args: ["--disable-blink-features=AutomationControlled", "--disable-features=IsolateOrigins,site-per-process", "--allow-no-sandbox-job"],
 ```
 1. Re-run the test
-2. Test ✅ 
+2. Test ✅ ✅ // control+ command+ space => pop up with icons
 ---
